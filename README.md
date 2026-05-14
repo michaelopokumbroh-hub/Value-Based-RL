@@ -37,7 +37,12 @@ python test_model_task3.py --model_path ..\RL_task3_best.pt
 ```
 
 ## Training Curves
-![Task 1](plots/task1_training_curve.png)
-![Task 2](plots/task2_training_curve.png)
-![Task 3](plots/task3_training_curve.png)
-![Comparison](plots/comparison_curve.png)
+<img width="1935" height="693" alt="task1_training_curve" src="https://github.com/user-attachments/assets/97ebc4fa-6fb5-4e75-a645-9615559ed0b1" />
+<img width="1935" height="693" alt="task2_training_curve" src="https://github.com/user-attachments/assets/7a9d88b4-2a83-4604-bbee-914da9775086" />
+<img width="2235" height="1181" alt="task3_per_seed" src="https://github.com/user-attachments/assets/f7608e91-4d20-4d40-9d39-0be32722357d" />
+<img width="2085" height="770" alt="task3_training_curve" src="https://github.com/user-attachments/assets/a5876337-2ef5-4f5f-98f9-e67a8d906d17" />
+<img width="1635" height="733" alt="comparison_curve" src="https://github.com/user-attachments/assets/1c815300-4f83-4db9-9922-0553d67dba7e" />
+
+
+
+
