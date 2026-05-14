@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Model files (too large)
+*.pt
+*.pth
+
+# WandB logs (too large)
+wandb/
+
+# Results folders
+results_task1/
+results_task2/
+results_task3/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Videos
+*.mp4
